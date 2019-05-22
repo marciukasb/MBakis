@@ -26,11 +26,24 @@
     align-items: center;
 }
 
+.member-skills .value{
+    width: 130px;
+}
+
 .skill-level-box{
     width: 8px;
     height: 16px;
     background-color: #30C7C1;
     margin-right: 2px;
+}
+.modify-skill{
+    margin: 0 5px;
+    color: #30C7C1;
+}
+
+.modify-skill:active{
+    margin: 0 5px;
+    color: #d3fffd;
 }
 
 .left{
